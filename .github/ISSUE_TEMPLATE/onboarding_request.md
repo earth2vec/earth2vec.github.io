@@ -1,9 +1,9 @@
 ---
 name: Onboarding Request
 about: Create a request to get onboarded to the community
-title: ''
+title: 'Please onboard me to E2V'
 labels: ''
-assignees: ''
+assignees: '@romeokienzler, @IsabelleWittmann'
 
 ---
 

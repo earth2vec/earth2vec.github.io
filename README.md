@@ -1,6 +1,3 @@
-# Earth2Vec
-
-
 **Earth2Vec** is a community-driven initiative to accelerate research and 
 real-world applications of Earth Observation embeddings.
 

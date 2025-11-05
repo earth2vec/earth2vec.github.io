@@ -5,10 +5,13 @@ With the goal of shaping the transformative potential of
 Earth Observation embeddings, we define standards for data formats and 
 benchmarking, explore real-world use cases and foster open-source collaboration.
 
-The community is open to everyone interested in the topic, please create an [onboarding request](https://github.com/earth2vec/earth2vec.github.io/issues/new/choose) to be added to the community.
+### How to join?
+The community is open to everyone interested in the topic, just join our [discord](https://discord.gg/3QNpjXus) to be added to the community. 
+Someone from the community will ask you for your email address to get added to the monthly invitations.
 
 
-Recordings of past meetings:  
+
+### Recordings of past meetings:  
 [10.10.2025](https://youtu.be/VnPDGp1ektI)  CORSA/Terrascope, Andreas Luyts, Vito  
 [12.09.2025](https://youtu.be/drKctLX5-xA)  Introduction to AlphaEarth by Valerie Pasquarella, Google  
 [08.08.2025](https://youtu.be/lO8A1wuXrMY)  Introduction to Clay 1.5 by Bruno Sánchez-Andrade Nuño, the Clay Foundation  

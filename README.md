@@ -22,7 +22,7 @@ We share monthly meeting invitations there, and you can reach out in the channel
 
 ### Recordings of past meetings:  
 
-- [09.08.2026](https://youtu.be/6LU1EuvCVJ4) panel discussion @ 2026 IGARSS (Washington, DC) in tutorial "FD-05: A Hands-On Introduction to Benchmarking Neural Compression and Representation Learning for Earth Observation" (https://2026.ieeeigarss.org/tutorials.php#tut5), featuring ICEYE, Planet/Sinergise, LGND, Microsoft, Asterisk Labs, UC Boulder, IBM, NASA ODSI/UAH, and EU JRC. 
+- [09.08.2026](https://youtu.be/6LU1EuvCVJ4) panel discussion @ 2026 IGARSS (Washington, DC) in tutorial *FD-05: A Hands-On Introduction to Benchmarking Neural Compression and Representation Learning for Earth Observation*, featuring ICEYE, Planet/Sinergise, LGND, Microsoft, Asterisk Labs, UC Boulder, IBM, NASA ODSI/UAH, and EU JRC. 
 - [29.05.2026](https://youtu.be/NzlnWJ46MD8) BetaEarth: Emulating Earth Embeddings by Mikolaj Czerkawski, Asterisk Labs
 Geometric Interpolation of Embeddings in Satellite-based Earth Observation by Erik Scheuer, Jülich Supercomputing Centre 
 - [27.03.2026](https://youtu.be/1_qi3RwcOxc?si=0sqi8Gt2WAEEqncg) Embed2Scale, Visual Prompting for Geospatial Image Segmentation based on Embedding Maps, Duc Kieu  
